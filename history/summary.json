@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/de.prvkey.ru.ico",
     "slug": "de-server",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
+    "uptime": "98.90%",
+    "uptimeDay": "83.81%",
+    "uptimeWeek": "97.69%",
     "uptimeMonth": "99.28%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "98.90%",
     "time": 386,
-    "timeDay": 256,
+    "timeDay": 0,
     "timeWeek": 418,
     "timeMonth": 388,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2026-09-30": 339,
       "2026-10-02": 345,
-      "2026-11-02": 21
+      "2026-11-02": 233
     }
   },
   {
@@ -27,20 +27,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishingbot.prvkey.ru.ico",
     "slug": "fishingbot",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
+    "uptime": "98.92%",
+    "uptimeDay": "84.15%",
+    "uptimeWeek": "97.74%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "98.92%",
     "time": 509,
-    "timeDay": 438,
+    "timeDay": 0,
     "timeWeek": 528,
     "timeMonth": 520,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2026-09-30": 334,
       "2026-10-02": 340,
-      "2026-11-02": 16
+      "2026-11-02": 228
     }
   },
   {
@@ -49,19 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aeromolica.kiparis.fun.ico",
     "slug": "aeromolica",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
+    "uptime": "98.80%",
+    "uptimeDay": "84.23%",
+    "uptimeWeek": "97.75%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.25%",
-    "time": 2550,
-    "timeDay": 10229,
-    "timeWeek": 3711,
-    "timeMonth": 2125,
-    "timeYear": 2550,
+    "uptimeYear": "98.80%",
+    "time": 3001,
+    "timeDay": 19672,
+    "timeWeek": 5710,
+    "timeMonth": 2128,
+    "timeYear": 3001,
     "dailyMinutesDown": {
       "2026-10-02": 339,
-      "2026-11-02": 15
+      "2026-11-02": 227
     }
   },
   {
@@ -70,20 +70,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/noxveil.prvkey.ru.ico",
     "slug": "noxveil-prvkey",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
+    "uptime": "98.94%",
+    "uptimeDay": "84.57%",
+    "uptimeWeek": "97.80%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "98.94%",
     "time": 576,
-    "timeDay": 426,
+    "timeDay": 0,
     "timeWeek": 531,
     "timeMonth": 520,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2026-09-30": 330,
       "2026-10-02": 334,
-      "2026-11-02": 10
+      "2026-11-02": 222
     }
   },
   {
@@ -92,20 +92,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfgx.prvkey.ru.ico",
     "slug": "flclashx-cfg",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
+    "uptime": "98.97%",
+    "uptimeDay": "84.91%",
+    "uptimeWeek": "97.84%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "98.97%",
     "time": 475,
-    "timeDay": 422,
+    "timeDay": 0,
     "timeWeek": 464,
     "timeMonth": 496,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-09-30": 320,
       "2026-10-02": 325,
-      "2026-11-02": 5
+      "2026-11-02": 217
     }
   },
   {
@@ -114,19 +114,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/wcoord.prvkey.ru.ico",
     "slug": "wcoord",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptime": "98.98%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "97.89%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "98.98%",
     "time": 461,
-    "timeDay": 415,
+    "timeDay": 0,
     "timeWeek": 475,
     "timeMonth": 463,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2026-09-30": 315,
-      "2026-10-02": 320
+      "2026-10-02": 320,
+      "2026-11-02": 212
     }
   }
 ]
